@@ -9,6 +9,12 @@ public class CoinChangeDynamic {
     private static int NOT_POSSIBLE = 999;
 
     // modify to allow user to pass in the list of coin_types
+    // n is the number you want the change for,
+    // coin_types is an array of your coins, eg {5, 10, 20}
+    // e.g.
+    // int[] coin_types = {5, 10, 15, 20};
+    // int best = CoinChangeDynamic.max_change( 40, coin_types );
+    //
     public static int max_change(int n, int[] coin_types) {
 
         // initialize from 0 ... n this will hold our best change solution
