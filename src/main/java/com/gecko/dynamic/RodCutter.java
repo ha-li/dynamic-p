@@ -1,7 +1,7 @@
 package com.gecko.dynamic;
 
 /**
- * Created by hlieu on 10/29/16.
+ * Created by ha-li on 10/29/16.
  */
 // a brute force way of solving the rod cutter problem
 public class RodCutter {

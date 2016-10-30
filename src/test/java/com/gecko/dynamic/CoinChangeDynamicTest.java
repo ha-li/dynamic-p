@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by hlieu on 10/29/16.
+ * Created by ha-li on 10/29/16.
  */
 public class CoinChangeDynamicTest {
     @Test

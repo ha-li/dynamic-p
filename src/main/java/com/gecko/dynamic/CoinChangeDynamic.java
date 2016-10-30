@@ -1,7 +1,7 @@
 package com.gecko.dynamic;
 
 /**
- * Created by hlieu on 10/29/16.
+ * Created by ha-li on 10/29/16.
  */
 public class CoinChangeDynamic {
 
