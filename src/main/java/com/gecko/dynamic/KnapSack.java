@@ -64,7 +64,7 @@ public class KnapSack
             }
         }
 
-        // 
+        //
         return K[val.length][W];
     }
 }
